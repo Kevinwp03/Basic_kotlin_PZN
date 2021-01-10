@@ -13,7 +13,7 @@ fun main() {
 
     //Continue
 
-    for (i in 0..100){
+    for ( i in 0..100){
         if(i % 2 == 0){
             continue  // angka genap tidak di print
         }
