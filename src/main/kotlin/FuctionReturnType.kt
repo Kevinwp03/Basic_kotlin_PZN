@@ -12,7 +12,6 @@ fun bagi(a: Int,b : Int): Int {
         return result
     }
 }
-
 fun main() {
     println(jumlah(50, 50))
     println(jumlah(100, 100))
