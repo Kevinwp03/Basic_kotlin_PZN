@@ -1,6 +1,6 @@
 fun main() {
 // Loops for Array
-    val names = arrayOf("Kevin", "Williams", "Permana", "Irfan", "Tony")
+    val names = arrayOf("Kevin", "Williams", "Permana", "Irfan", "Tony","Wiji")
     println(names[0])
 
     var total = 0
@@ -8,6 +8,8 @@ fun main() {
         println(name)
         total++
     }
+
+
 println("==========================================================================")
     val lenghtArray = names.size - 1
     for (k in 0..lenghtArray){
