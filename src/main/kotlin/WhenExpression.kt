@@ -42,7 +42,7 @@ fun main() {
 
     // When expression is
     val name = "Kevin"
-    when (name) {                                                   // akan sering digunakan pada saat belajar Objec oriented programming
+    when (name) {                                // akan sering digunakan pada saat belajar Objec oriented programming
         is String -> println("Name is String")
         !is String -> println("Name is not String")
     }
